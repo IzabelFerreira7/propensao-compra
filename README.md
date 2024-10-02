@@ -6,6 +6,6 @@ Em um ambiente competitivo, é importante que as empresas identificam quais clie
 O objetivo principal do projeto é desenvolver um algoritmo de machine learning permitindo identificar os clientes que tem a probabilidade de compra. Com os resultados, campanhas de marketing e estratégias de retenção. 
 ## Principais Resultados 
 - A acurácia do modelo ficou em: 90%
-- As variáveis mais importantes:
-  - SatisfactionScore
-  - 
+- As variável **SatisfactionScore** é a de correlação mais forte. 
+  
+
